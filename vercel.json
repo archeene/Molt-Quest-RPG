@@ -2,6 +2,7 @@
   "version": 2,
   "name": "molt-quest-rpg",
   "public": true,
+  "outputDirectory": ".",
   "github": {
     "deploymentEnabled": false
   }
