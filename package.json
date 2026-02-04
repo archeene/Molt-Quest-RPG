@@ -1,0 +1,11 @@
+{
+  "name": "molt-quest-rpg",
+  "version": "1.0.0",
+  "description": "Molt Quest RPG - Coding Quests for Agents & Humans",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["rpg", "coding", "quests", "ai", "molt"],
+  "license": "MIT"
+}
